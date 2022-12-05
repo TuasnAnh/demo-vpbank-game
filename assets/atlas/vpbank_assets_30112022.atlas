@@ -1,0 +1,307 @@
+
+vpbank_assets_30112022.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+A1
+  rotate: false
+  xy: 380, 690
+  size: 142, 252
+  orig: 142, 252
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 475, 119
+  size: 135, 220
+  orig: 135, 220
+  offset: 0, 0
+  index: -1
+A3
+  rotate: false
+  xy: 267, 311
+  size: 132, 247
+  orig: 132, 247
+  offset: 0, 0
+  index: -1
+A4
+  rotate: false
+  xy: 2, 18
+  size: 188, 252
+  orig: 188, 252
+  offset: 0, 0
+  index: -1
+A5
+  rotate: false
+  xy: 542, 1302
+  size: 188, 344
+  orig: 188, 344
+  offset: 0, 0
+  index: -1
+B1
+  rotate: false
+  xy: 494, 1013
+  size: 113, 219
+  orig: 113, 219
+  offset: 0, 0
+  index: -1
+B2
+  rotate: false
+  xy: 609, 1094
+  size: 120, 206
+  orig: 120, 206
+  offset: 0, 0
+  index: -1
+B3
+  rotate: false
+  xy: 192, 33
+  size: 119, 237
+  orig: 119, 237
+  offset: 0, 0
+  index: -1
+B4
+  rotate: false
+  xy: 313, 79
+  size: 160, 230
+  orig: 160, 230
+  offset: 0, 0
+  index: -1
+B5
+  rotate: false
+  xy: 732, 1335
+  size: 160, 317
+  orig: 160, 317
+  offset: 0, 0
+  index: -1
+C1
+  rotate: false
+  xy: 1705, 1403
+  size: 185, 103
+  orig: 185, 103
+  offset: 0, 0
+  index: -1
+C3
+  rotate: false
+  xy: 380, 562
+  size: 185, 126
+  orig: 185, 126
+  offset: 0, 0
+  index: -1
+C2
+  rotate: false
+  xy: 380, 562
+  size: 185, 126
+  orig: 185, 126
+  offset: 0, 0
+  index: -1
+D1
+  rotate: false
+  xy: 1494, 1345
+  size: 209, 134
+  orig: 209, 134
+  offset: 0, 0
+  index: -1
+D2
+  rotate: false
+  xy: 1720, 1508
+  size: 209, 162
+  orig: 209, 162
+  offset: 0, 0
+  index: -1
+D3
+  rotate: false
+  xy: 1230, 1261
+  size: 217, 140
+  orig: 217, 140
+  offset: 0, 0
+  index: -1
+D4
+  rotate: false
+  xy: 1470, 1481
+  size: 228, 170
+  orig: 228, 170
+  offset: 0, 0
+  index: -1
+D5
+  rotate: false
+  xy: 1059, 1271
+  size: 169, 163
+  orig: 169, 163
+  offset: 0, 0
+  index: -1
+D6
+  rotate: false
+  xy: 401, 341
+  size: 169, 219
+  orig: 169, 219
+  offset: 0, 0
+  index: -1
+E1
+  rotate: false
+  xy: 1449, 1209
+  size: 214, 134
+  orig: 214, 134
+  offset: 0, 0
+  index: -1
+E2
+  rotate: false
+  xy: 1733, 1672
+  size: 225, 140
+  orig: 225, 140
+  offset: 0, 0
+  index: -1
+E3
+  rotate: false
+  xy: 1240, 1481
+  size: 228, 170
+  orig: 228, 170
+  offset: 0, 0
+  index: -1
+E4
+  rotate: false
+  xy: 1733, 1814
+  size: 261, 211
+  orig: 261, 211
+  offset: 0, 0
+  index: -1
+E5
+  rotate: false
+  xy: 2, 272
+  size: 263, 286
+  orig: 263, 286
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 894, 1354
+  size: 163, 298
+  orig: 163, 298
+  offset: 0, 0
+  index: -1
+blue_circle
+  rotate: false
+  xy: 390, 2
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+bottom_overlay
+  rotate: false
+  xy: 1290, 1653
+  size: 428, 132
+  orig: 428, 132
+  offset: 0, 0
+  index: -1
+confetti
+  rotate: false
+  xy: 1996, 1967
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: 1
+confetti
+  rotate: false
+  xy: 1240, 1687
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: 2
+confetti
+  rotate: false
+  xy: 267, 287
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: 3
+decor_B3
+  rotate: false
+  xy: 1290, 1787
+  size: 441, 238
+  orig: 441, 238
+  offset: 0, 0
+  index: -1
+decor_B4
+  rotate: false
+  xy: 2, 1234
+  size: 538, 412
+  orig: 538, 412
+  offset: 0, 0
+  index: -1
+decor_C1
+  rotate: false
+  xy: 1705, 1325
+  size: 170, 76
+  orig: 170, 76
+  offset: 0, 0
+  index: -1
+decor_C2
+  rotate: false
+  xy: 1240, 1403
+  size: 252, 76
+  orig: 252, 76
+  offset: 0, 0
+  index: -1
+decor_E2
+  rotate: false
+  xy: 665, 1654
+  size: 573, 69
+  orig: 573, 69
+  offset: 0, 0
+  index: -1
+decor_E5
+  rotate: false
+  xy: 665, 1725
+  size: 623, 300
+  orig: 623, 300
+  offset: 0, 0
+  index: -1
+green_circle
+  rotate: false
+  xy: 475, 42
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+hoa_dao
+  rotate: false
+  xy: 2, 560
+  size: 376, 382
+  orig: 376, 382
+  offset: 0, 0
+  index: -1
+hoa_mai
+  rotate: false
+  xy: 2, 944
+  size: 490, 288
+  orig: 490, 288
+  offset: 0, 0
+  index: -1
+lixi
+  rotate: false
+  xy: 609, 955
+  size: 101, 137
+  orig: 101, 137
+  offset: 0, 0
+  index: -1
+range
+  rotate: false
+  xy: 2, 1648
+  size: 661, 377
+  orig: 677, 390
+  offset: 5, 0
+  index: -1
+red_circle
+  rotate: false
+  xy: 313, 2
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+start_button
+  rotate: false
+  xy: 1059, 1436
+  size: 179, 216
+  orig: 179, 216
+  offset: 0, 0
+  index: -1

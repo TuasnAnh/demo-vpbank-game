@@ -1,0 +1,37 @@
+catvp.png
+size:1961,1144
+filter:Linear,Linear
+Left arm
+bounds:1410,2,409,302
+offsets:1,1,411,304
+rotate:90
+arm 2
+bounds:1410,413,532,475
+offsets:1,1,534,477
+body
+bounds:2,103,681,1039
+offsets:1,1,683,1041
+brow
+bounds:2,11,446,90
+offsets:1,1,448,92
+head
+bounds:685,291,851,723
+offsets:1,1,853,725
+rotate:90
+leg
+bounds:978,35,206,254
+offsets:1,1,208,256
+leg 2
+bounds:1714,85,208,326
+offsets:1,1,219,328
+right arm
+bounds:1410,890,549,252
+offsets:1,2,551,255
+smile
+bounds:1186,82,207,221
+offsets:1,0,208,221
+rotate:90
+tail
+bounds:685,16,273,291
+offsets:1,7,275,299
+rotate:90

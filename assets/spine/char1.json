@@ -1,0 +1,85 @@
+{
+  "skeleton": {
+    "hash": "Xs1a6xFliyYFP6GkdBnOY8/kE9U",
+    "spine": "3.8.75",
+    "x": -157.55,
+    "y": -1.66,
+    "width": 318.94,
+    "height": 424,
+    "images": "",
+    "audio": "C:/Users/ACER/OneDrive/Pictures/vpbank animation/char1"
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "bone", "parent": "root", "length": 48.15, "rotation": 90, "x": 1.04, "y": 28.32 },
+    {
+      "name": "bone2",
+      "parent": "bone",
+      "length": 40.85,
+      "rotation": -33.2,
+      "x": 173.67,
+      "y": -64.6
+    },
+    {
+      "name": "bone3",
+      "parent": "bone",
+      "length": 37.73,
+      "rotation": 36.36,
+      "x": 161.38,
+      "y": 58.78
+    }
+  ],
+  "slots": [
+    { "name": "Layer 1", "bone": "bone", "attachment": "Layer 1" },
+    { "name": "Layer 3", "bone": "bone2", "attachment": "Layer 3" },
+    { "name": "Layer 2", "bone": "bone3", "attachment": "Layer 2" }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Layer 1": {
+          "Layer 1": { "x": 149.02, "y": 0.64, "rotation": -90, "width": 182, "height": 358 }
+        },
+        "Layer 2": {
+          "Layer 2": { "x": 80.57, "y": -6.78, "rotation": -126.36, "width": 115, "height": 194 }
+        },
+        "Layer 3": {
+          "Layer 3": { "x": 100.34, "y": 21.73, "rotation": -56.8, "width": 118, "height": 249 }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "bone2": {
+          "rotate": [
+            { "value": -12 },
+            { "time": 0.3333, "value": 1.2 },
+            { "time": 0.6667, "value": -12 }
+          ]
+        },
+        "bone3": {
+          "rotate": [
+            { "value": 10.8 },
+            { "time": 0.3333, "value": -7.2 },
+            { "time": 0.6667, "value": 10.8 }
+          ]
+        },
+        "bone": {
+          "translate": [{ "y": -10 }, { "time": 0.3333, "y": 4 }, { "time": 0.6667, "y": -10 }],
+          "scale": [{ "x": 0.92 }, { "time": 0.3333, "x": 0.98 }, { "time": 0.6667, "x": 0.92 }]
+        }
+      }
+    },
+    "animation2": {
+      "bones": {
+        "bone": {
+          "translate": [{ "y": -8 }, { "time": 0.3333, "y": 2 }, { "time": 0.6667, "y": -8 }],
+          "scale": [{ "x": 0.92 }, { "time": 0.3333, "x": 0.98 }, { "time": 0.6667, "x": 0.92 }]
+        }
+      }
+    }
+  }
+}

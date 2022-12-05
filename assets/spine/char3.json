@@ -1,0 +1,72 @@
+{
+  "skeleton": {
+    "hash": "Vz0iOApc9Mv6UZXXzMP2GlRzP04",
+    "spine": "3.8.75",
+    "x": -59.24,
+    "y": 5.45,
+    "width": 171.2,
+    "height": 189,
+    "images": "",
+    "audio": "C:/Users/ACER/OneDrive/Pictures/vpbank animation/char3"
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "bone", "parent": "root", "length": 30.01, "rotation": 90, "x": 0.72, "y": 12.06 },
+    {
+      "name": "bone2",
+      "parent": "bone",
+      "length": 27.83,
+      "rotation": -69.7,
+      "x": 65.51,
+      "y": -43.99
+    },
+    { "name": "bone3", "parent": "bone", "length": 21.8, "rotation": 31.79, "x": 80.99, "y": 7.84 }
+  ],
+  "slots": [
+    { "name": "Layer 1", "bone": "bone", "attachment": "Layer 1" },
+    { "name": "Layer 4", "bone": "bone2", "attachment": "Layer 4" },
+    { "name": "Layer 3", "bone": "bone3", "attachment": "Layer 3" }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Layer 1": {
+          "Layer 1": { "x": 86.9, "y": -28.71, "rotation": -90, "width": 136, "height": 187 }
+        },
+        "Layer 3": {
+          "Layer 3": { "x": 47.65, "y": -6.45, "rotation": -121.79, "width": 65, "height": 115 }
+        },
+        "Layer 4": {
+          "Layer 4": { "x": 34.25, "y": 1.07, "rotation": -20.3, "width": 71, "height": 54 }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "bone2": {
+          "rotate": [
+            { "value": -14.4 },
+            { "time": 0.3333, "value": 9.6 },
+            { "time": 0.6667, "value": -14.4 }
+          ]
+        },
+        "bone3": {
+          "rotate": [{ "value": 18 }, { "time": 0.3333 }, { "time": 0.6667, "value": 18 }]
+        },
+        "bone": {
+          "scale": [{ "x": 0.94 }, { "time": 0.3333, "x": 1.04 }, { "time": 0.6667, "x": 0.94 }]
+        }
+      }
+    },
+    "animation2": {
+      "bones": {
+        "bone": {
+          "scale": [{ "x": 0.94 }, { "time": 0.3333, "x": 1.04 }, { "time": 0.6667, "x": 0.94 }]
+        }
+      }
+    }
+  }
+}

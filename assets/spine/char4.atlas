@@ -1,0 +1,27 @@
+
+char4.png
+size: 254,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 153, 265
+  orig: 155, 267
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 157, 71
+  size: 95, 196
+  orig: 97, 198
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 157, 17
+  size: 66, 52
+  orig: 68, 55
+  offset: 1, 1
+  index: -1

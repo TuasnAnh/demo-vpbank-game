@@ -1,0 +1,10 @@
+vpchest.png
+size:1270,730
+filter:Linear,Linear
+hopdong
+bounds:763,31,697,505
+offsets:1,1,699,507
+rotate:90
+hopmo
+bounds:2,2,759,726
+offsets:1,40,808,767

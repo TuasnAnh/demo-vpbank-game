@@ -1,0 +1,27 @@
+
+char3.png
+size: 186,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 134, 182
+  orig: 136, 187
+  offset: 1, 4
+  index: -1
+Layer 3
+  rotate: true
+  xy: 72, 138
+  size: 63, 112
+  orig: 65, 115
+  offset: 1, 2
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 149
+  size: 68, 52
+  orig: 71, 54
+  offset: 2, 1
+  index: -1

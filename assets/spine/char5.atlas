@@ -1,0 +1,20 @@
+
+char5.png
+size: 474,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 132, 264
+  orig: 134, 266
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: true
+  xy: 268, 6
+  size: 128, 204
+  orig: 130, 206
+  offset: 1, 1
+  index: -1
