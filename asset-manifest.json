@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.79f09e06.css",
-    "main.js": "./static/js/main.ee6ee3b2.js",
-    "static/js/27.fe66ef9a.chunk.js": "./static/js/27.fe66ef9a.chunk.js",
-    "static/media/SVN-Gilroy-Bold.otf": "./static/media/SVN-Gilroy-Bold.e46346e4060087be98d7.otf",
-    "static/media/SVN-Gilroy-SemiBold.otf": "./static/media/SVN-Gilroy-SemiBold.ee43a489375afff1a8d7.otf",
-    "static/media/SVN-Gilroy-Medium.otf": "./static/media/SVN-Gilroy-Medium.bc38048ab09275875012.otf",
-    "static/media/SVN-Gilroy-Regular.otf": "./static/media/SVN-Gilroy-Regular.6b1bcdc2754c31961cb9.otf",
-    "service-worker.js": "./service-worker.js",
-    "index.html": "./index.html"
+    "main.css": "./demo-vpbank-game/static/css/main.79f09e06.css",
+    "main.js": "./demo-vpbank-game/static/js/main.abdb2a69.js",
+    "static/js/27.fe66ef9a.chunk.js": "./demo-vpbank-game/static/js/27.fe66ef9a.chunk.js",
+    "static/media/SVN-Gilroy-Bold.otf": "./demo-vpbank-game/static/media/SVN-Gilroy-Bold.e46346e4060087be98d7.otf",
+    "static/media/SVN-Gilroy-SemiBold.otf": "./demo-vpbank-game/static/media/SVN-Gilroy-SemiBold.ee43a489375afff1a8d7.otf",
+    "static/media/SVN-Gilroy-Medium.otf": "./demo-vpbank-game/static/media/SVN-Gilroy-Medium.bc38048ab09275875012.otf",
+    "static/media/SVN-Gilroy-Regular.otf": "./demo-vpbank-game/static/media/SVN-Gilroy-Regular.6b1bcdc2754c31961cb9.otf",
+    "service-worker.js": "./demo-vpbank-game/service-worker.js",
+    "index.html": "./demo-vpbank-game/index.html"
   },
   "entrypoints": [
     "static/css/main.79f09e06.css",
-    "static/js/main.ee6ee3b2.js"
+    "static/js/main.abdb2a69.js"
   ]
 }
