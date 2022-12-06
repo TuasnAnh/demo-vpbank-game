@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3eeb4d99.css",
-    "main.js": "./static/js/main.da77d87c.js",
+    "main.js": "./static/js/main.d27581c0.js",
     "static/js/27.d9799c81.chunk.js": "./static/js/27.d9799c81.chunk.js",
     "static/media/SVN-Gilroy-Bold.otf": "./static/media/SVN-Gilroy-Bold.e46346e4060087be98d7.otf",
     "static/media/SVN-Gilroy-SemiBold.otf": "./static/media/SVN-Gilroy-SemiBold.ee43a489375afff1a8d7.otf",
@@ -12,6 +12,6 @@
   },
   "entrypoints": [
     "static/css/main.3eeb4d99.css",
-    "static/js/main.da77d87c.js"
+    "static/js/main.d27581c0.js"
   ]
 }
